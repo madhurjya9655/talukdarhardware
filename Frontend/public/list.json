@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Ceramic Floor Tiles",
+        "category": "Flooring",
+        "description": "A wide selection of realistic ceramic floor tiles in different types and styles.",
+        
+        "image": "https://img.freepik.com/free-vector/colored-realistic-ceramic-floor-tiles-horizontal-set-with-squares-different-types-styles-tiles_1284-29013.jpg?w=900"
+    },
+    {
+        "id": 2,
+        "name": "Bricks Wall Background",
+        "category": "Construction Materials",
+        "description": "A solid brick wall background made from high-quality bricks for durable structures.",
+        
+        "image": "https://img.freepik.com/free-photo/background-made-from-bricks_23-2148742475.jpg?t=st=1726121956~exp=1726125556~hmac=1ffcc05298d5510597e91ded50824cc1a1db5c37acca7c94ba509771b887aa3f&w=1060"
+    },
+    {
+        "id": 3,
+        "name": "PVC Pipes and Fittings",
+        "category": "Plumbing",
+        "description": "A minimalistic design showcasing construction materials like PVC pipes for plumbing systems.",
+        
+        "image": "https://img.freepik.com/free-photo/minimalist-construction-pvc-pipes-composition_23-2149106871.jpg?t=st=1726123747~exp=1726127347~hmac=e767a695f33ffdf2e16adcfc1df8156b52cfb26a03fe83bc78f7571849eb14d9&w=996"
+    },
+    {
+        "id": 4,
+        "name": "Bathroom Fixtures",
+        "category": "Bathroom Supplies",
+        "description": "Essential bathroom fixtures including toilet bowl, paper roll, and brush.",
+        
+        "image": "https://img.freepik.com/free-vector/toilet-bowl-bathroom-with-paper-roll-brush_107791-664.jpg?t=st=1726123826~exp=1726127426~hmac=4eeffa64966adc879494cb3a7ff7c13f4261f4af3e27c8417c954164877d0bd2&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Roof Tiles",
+        "category": "Roofing",
+        "description": "Flat design roofing tiles ideal for modern home exteriors.",
+        
+        "image": "https://img.freepik.com/free-vector/flat-design-roof-tile-pattern-design_23-2149262469.jpg?t=st=1726123887~exp=1726127487~hmac=1052494d0544f48c7a8823ef2dd5593acced5807f73c1ad162e0b077391e8933&w=740"
+    },
+    {
+        "id": 6,
+        "name": "White Sink and Faucet",
+        "category": "Plumbing Fixtures",
+        "description": "Modern white sink with a sleek faucet design, perfect for contemporary bathroom settings.",
+        
+        "image": "https://img.freepik.com/free-photo/white-sink-faucet_74190-7254.jpg?t=st=1726124645~exp=1726128245~hmac=2da8d84d4a15dfe269c74f669ebcdff74f112bbcd743fe55b99fd7eadc84c388&w=996"
+    }
+    
+]
